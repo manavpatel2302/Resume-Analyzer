@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Resume Analyzer",
+  "description": "An AI-powered tool to analyze your resume against a job description, providing an ATS score, identifying areas for improvement, and highlighting missing keywords to help you land your dream job.",
+  "requestFramePermissions": []
+}
